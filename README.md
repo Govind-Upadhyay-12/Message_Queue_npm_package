@@ -1,7 +1,7 @@
 <h1>A message queue is a form of communication between different software components or systems. It is widely used in distributed systems to enable asynchronous communication and decouple different parts of a system. The basic idea is to allow one part of a system to send a message to another part without requiring the sender to wait for an immediate response.</h1>
 
 <h1>To Install the dependency</h1>
-<h2>npm i govqueue</h2>
+<h2>npm i lionqueue</h2>
 
 <h1>Features of Message Queue</h1>
 
